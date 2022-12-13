@@ -215,7 +215,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -4392,7 +4392,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5110,7 +5110,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 5
+          m_IntArgument: 6
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5482,6 +5482,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Train
       objectReference: {fileID: 0}
+    - target: {fileID: 6568082105119856190, guid: 01ca315dee71c7b4fbd12337f2d0a36f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a47c3ad320fe6c64bbc1133e6cebed6d, type: 2}
+    - target: {fileID: 6988331500139363966, guid: 01ca315dee71c7b4fbd12337f2d0a36f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a47c3ad320fe6c64bbc1133e6cebed6d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01ca315dee71c7b4fbd12337f2d0a36f, type: 3}
 --- !u!1001 &824243991
@@ -6723,6 +6733,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Train (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6568082105119856190, guid: 01ca315dee71c7b4fbd12337f2d0a36f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a47c3ad320fe6c64bbc1133e6cebed6d, type: 2}
+    - target: {fileID: 6988331500139363966, guid: 01ca315dee71c7b4fbd12337f2d0a36f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a47c3ad320fe6c64bbc1133e6cebed6d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01ca315dee71c7b4fbd12337f2d0a36f, type: 3}
 --- !u!4 &1167075572 stripped
@@ -6967,7 +6987,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -7562,7 +7582,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: lobby
+  m_text: scene 6
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8756,7 +8776,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -9059,6 +9079,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Train (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6568082105119856190, guid: 01ca315dee71c7b4fbd12337f2d0a36f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a47c3ad320fe6c64bbc1133e6cebed6d, type: 2}
+    - target: {fileID: 6988331500139363966, guid: 01ca315dee71c7b4fbd12337f2d0a36f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a47c3ad320fe6c64bbc1133e6cebed6d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01ca315dee71c7b4fbd12337f2d0a36f, type: 3}
 --- !u!1 &1586114707 stripped
@@ -11225,7 +11255,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

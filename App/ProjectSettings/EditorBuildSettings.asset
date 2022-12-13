@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/realMainMenu.unity
+    guid: b83f7c84543e5694bada4b502ce7056b
+  - enabled: 1
     path: Assets/Scenes/AudioPanScene.unity
     guid: 4a2653d66850c1249b92cc694eeb83fa
   - enabled: 1
@@ -15,14 +18,14 @@ EditorBuildSettings:
     path: Assets/Scenes/ReverseAudioScene.unity
     guid: 797da8da3daa5024b930b7fdf12d8f07
   - enabled: 1
-    path: Assets/Scenes/laurinscene.unity
-    guid: 522b0ccc78a597f43bbd2d3181001bcf
-  - enabled: 1
     path: Assets/Scenes/laurinscene2.unity
     guid: 2aea326c7e779284e87f04096763a85e
   - enabled: 1
-    path: Assets/Scenes/realMainMenu.unity
-    guid: b83f7c84543e5694bada4b502ce7056b
+    path: Assets/Scenes/MinMax.unity
+    guid: 71a54f7959626ac49a0d42a140422ac9
+  - enabled: 1
+    path: Assets/Scenes/laurinscene 1.unity
+    guid: 3eeafa9fdb56b9a47b1b85e45824176a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
